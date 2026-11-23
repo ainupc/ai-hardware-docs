@@ -29,4 +29,4 @@ For questions or submissions:
 
 ---
 
-*Ainu PC — On-premises AI engineering for SMEs. Singapore 🇸🇬 / Shenzhen 🇨🇳*
+*Ainu PC — On-premises AI engineering for startups and SMEs.
