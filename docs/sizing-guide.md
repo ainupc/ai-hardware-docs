@@ -104,4 +104,4 @@ For MoE models, use active_params instead of total_params for per-token memory d
 
 ## Benchmark Data Sources
 
-All benchmarks in this guide come from our internal testing, try our interactive workload-sizing calculator at [ainupc.com/hardware](https://ainupc.com/hardware)
+All benchmarks in this guide come from our internal testing, use our interactive workload-sizing calculator at [ainupc.com/hardware](https://ainupc.com/hardware)
