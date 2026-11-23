@@ -1,6 +1,6 @@
 # AiNu PC — On-Premises AI Hardware Reference
 
-> **Forward-deployed AI engineering for startups and SMEs.** We bring on-site engineers + AMD Strix Halo hardware to your office — no cloud SaaS, no data leaving your perimeter. Singapore 🇸🇬 / Shenzhen 🇨🇳
+> **Forward-deployed AI engineering for startups and SMEs.** We bring on-site engineers + AMD Strix Halo hardware to your office — no cloud SaaS, no data leaving your perimeter.
 
 ---
 
